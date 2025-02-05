@@ -1,0 +1,9 @@
+[{
+		"file":	"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\BasicIO\\main.cpp",
+		"directory":	"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\BasicIO",
+		"command":	"C:/mingw64/bin/g++.exe -c \"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\BasicIO\\main.cpp\" -o \"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\BasicIO\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}, {
+		"file":	"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\FirstProgram\\main.cpp",
+		"directory":	"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\FirstProgram",
+		"command":	"C:/mingw64/bin/g++.exe -c \"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\FirstProgram\\main.cpp\" -o \"C:\\Users\\erhan.karakoca\\Workspaces\\Part4 - Getting Started\\FirstProgram\\main.cpp\".o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0 -IC:\\mingw64\\include\\c++\\14.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\14.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\14.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -gdwarf-2  -O0  -Wall"
+	}]
