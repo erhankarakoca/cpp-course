@@ -1,6 +1,19 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++
+# CodeLite IDE
+*.mk
+*.txt
+*.project
+*.workspace
+compile_commands.json
+Makefile
+.codelite/
+*.session
+*.tags
+tags
 
+# Builds
+Debug/
 ### C++ ###
 # Prerequisites
 *.d
